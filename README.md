@@ -265,7 +265,7 @@ Thanks for RTFM. ☺️
 [🖇floss-funding.dev]: https://floss-funding.dev
 [🖇floss-funding-gem]: https://github.com/galtzo-floss/floss_funding
 [✉️discord-invite]: https://discord.gg/3qme4XHNKN
-[✉️discord-invite-img-ftb]: https://img.shields.io/discord/1373797679469170758?style=for-the-badge
+[✉️discord-invite-img-ftb]: https://img.shields.io/discord/1373797679469170758?style=for-the-badge&logo=discord
 [✉️ruby-friends-img]: https://img.shields.io/badge/daily.dev-💎_Ruby_Friends-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white
 [✉️ruby-friends]: https://app.daily.dev/squads/rubyfriends
 
