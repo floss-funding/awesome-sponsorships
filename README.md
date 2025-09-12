@@ -27,6 +27,7 @@ Some ideas on how to earn more money as an open source developer.
 Check out these awesome profiles, and their creative tiers:
 
 - [github.com/sponsors/simonw](https://github.com/sponsors/simonw)
+- [github.com/sponsors/KelvinTegelaar](https://github.com/sponsors/KelvinTegelaar)
 
 ## Awesome Check List
 
