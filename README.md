@@ -29,7 +29,7 @@ Check out these awesome profiles, and their creative tiers:
 - [github.com/sponsors/simonw](https://github.com/sponsors/simonw)
 - [github.com/sponsors/KelvinTegelaar](https://github.com/sponsors/KelvinTegelaar)
 
-## Awesome Check List
+## Awesome Check List (Quick)
 
 How to get more sponsors!
 
@@ -58,6 +58,108 @@ How to get more sponsors!
 - [ ] 23. Knowing stats will help
 - [ ] 24. Take the number you are thinking of, and then double it.
 - [ ] 25. Grant access to private recipes repo for subscribers above a certain tier.
+
+## Sponsorships — Deep Actionable Checklist
+
+A concise, practical checklist distilled from the “Funding for OSS via Sponsorships” transcript. Use it to set up, grow, and retain individual and corporate sponsors.
+
+### 1) Foundation and Mindset
+
+- [ ] Accept that “build it and they will come” is a myth. Plan to market and engage.
+- [ ] See sponsors as community members, not just customers.
+- [ ] Overcome the “panhandling” fear by offering clear, transactional value in tiers.
+- [ ] Communicate that sponsorship converts a project into a durable product (longevity and support).
+- [ ] Recognize culture/geography: tipping/donation norms vary (e.g., NA vs EU).
+
+### 2) Community & Visibility
+
+- [ ] Create or join community hubs (Discord/Slack/forums) around your niche.
+- [ ] Be consistently helpful in industry spaces: answer questions, share knowledge, build reputation.
+- [ ] Encourage word-of-mouth: ask users to share, email vendors, and advocate publicly.
+- [ ] Treat competitors and vendors as community participants; feedback is valuable.
+
+### 3) Sponsorship Tiers that Convert (Make it Transactional)
+
+- [ ] Avoid $1–$5 “coffee” tiers as your primary focus; they underprice your value.
+- [ ] Use simple marketing framing: Bronze / Silver / Gold (and higher custom tiers).
+- [ ] Price floors: consider ≥ price of a real-world coffee (~$10+) for entry tier.
+- [ ] Define tangible perks clearly to set expectations and reduce entitlement concerns:
+    - [ ] Discord role or private channel (status, early access to dev chat).
+    - [ ] Premium support via email (no SLA if you prefer; state it explicitly).
+    - [ ] Managed hosting of your open-source app (positioned as “hosting,” not full SaaS, if needed).
+    - [ ] Physical swag (stickers, T‑shirts) — partner for fulfillment.
+    - [ ] Exclusive docs/tutorials or “sponsorware” early access.
+- [ ] Make some perks monthly-only (e.g., swag eligibility) to increase retention.
+- [ ] For physical items, price tiers at least 2× total cost (item + shipping + ops).
+
+### 4) Corporate Sponsorships
+
+- [ ] Offer lightweight marketing placement:
+    - [ ] README logo + link.
+    - [ ] Small in-app logo (e.g., 240×80) with “sponsored by” label; link optional.
+- [ ] Create higher-priced corporate tiers (e.g., $1k–$5k+ monthly) with marketing value.
+- [ ] Pitch recognition/brand lift over raw visitor counts; emphasize reach in your niche.
+- [ ] Outreach targets: marketing, business development, or account managers.
+- [ ] Be flexible with payment: support invoicing or direct credit card outside GitHub Sponsors if needed.
+
+### 5) Automation & Fulfillment
+
+- [ ] Use the GitHub Sponsors webhook to trigger automations (e.g., n8n, Zapier):
+    - [ ] Grant Discord roles or add to private channels.
+    - [ ] Issue coupon codes or auto-create swag/merch orders.
+    - [ ] Provision hosting/onboarding flows.
+- [ ] If email isn’t provided, send a secure link for first-time sponsors to supply shipping or account details.
+
+### 6) Pricing & Negotiation
+
+- [ ] Anchor higher. Rule of thumb: take your number and double it for initial offers.
+- [ ] Consider “factor of π” or even 10× for bespoke corporate value-adds.
+- [ ] Offer custom tiers for companies needing special terms or perks.
+
+### 7) Outreach Playbook
+
+- [ ] Add a clear sponsor CTA on your site/app (e.g., “Get Hosting” → Sponsor page flow).
+- [ ] Publish stories and updates that highlight sponsor impact and community wins.
+- [ ] Ask satisfied users to CC vendors and peers when recommending your project.
+- [ ] Leverage timely moments (launches, milestones, even controversy) to restate your value and call for sponsorships.
+
+### 8) Messaging That Works
+
+- [ ] “Your sponsorship funds ongoing maintenance and support so this stays alive and healthy.”
+- [ ] “Sponsorship includes tangible benefits: [list your perks].”
+- [ ] “Join the community — get a role, private channel access, and influence on roadmap.”
+
+### 9) Retention & Churn
+
+- [ ] Expect limited visibility into cancellation reasons; compensate with:
+    - [ ] Occasional brief check-ins or feedback forms to sponsors.
+    - [ ] Clear, durable perks (support/hosting) that provide ongoing value.
+    - [ ] Transparent updates so sponsors see continued progress and relevance.
+
+### 10) Quick Start (90‑Minute Sprint)
+
+- [ ] 0–15 min: Draft 3–5 tiers (>= $10 entry; include at least one with support; one with hosting; one corporate marketing tier).
+- [ ] 15–30 min: Write perk copy with clear expectations (e.g., “email support, no SLA”).
+- [ ] 30–45 min: Add sponsor CTA to README and your website; create a community invite link.
+- [ ] 45–60 min: Set up a Discord role/private channel; document how sponsors get access.
+- [ ] 60–90 min: Configure GitHub Sponsors webhook to your automation (n8n/Zapier) to handle role assignment and welcome messages; create a form for shipping details if offering swag.
+
+### 11) Examples You Can Adapt
+
+- [ ] $10/mo — Community Supporter: Discord role + name color; occasional early updates.
+- [ ] $25/mo — Swag Tier: annual sticker pack via partner fulfillment (auto-triggered by webhook).
+- [ ] $99/mo — Premium Support & Hosting: hosted instance + email support (no SLA); onboarding form after first payment.
+- [ ] $1,000–$5,000+/mo — Corporate Sponsor: README logo, small in-app logo, quarterly shout-out, optional invoice billing.
+
+### 12) Guardrails
+
+- [ ] Be explicit in perk descriptions to avoid mismatched expectations.
+- [ ] Don’t overcommit on SLAs unless you can honor them.
+- [ ] Keep fulfillment low-friction and automated; manual processes don’t scale.
+- [ ] Revisit tiers periodically; adjust pricing and perks as demand and costs evolve.
+
+—
+Have a success to share or a tactic that worked for you? Add it here to iterate on the checklist.
 
 ## 🤝 Contributing
 
