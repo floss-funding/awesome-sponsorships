@@ -74,17 +74,18 @@ chat rooms and mailing lists agrees to follow the [![Contributor Covenant 2.1][�
 
 Made with [contributors-img][🖐contrib-rocks].
 
-## ⭐️ Star History
+<details>
+    <summary>⭐️ Star History</summary>
 
 <a href="https://star-history.com/#galtzo-floss/awesome-sponsorships&Date">
  <picture>
-     <source media="(prefers-color-scheme: dark)"
-             srcset="https://api.star-history.com/svg?repos=galtzo-floss/awesome-sponsorships&type=Date&theme=dark"/>
-     <source media="(prefers-color-scheme: light)"
-             srcset="https://api.star-history.com/svg?repos=galtzo-floss/awesome-sponsorships&type=Date"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=galtzo-floss/awesome-sponsorships&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=galtzo-floss/awesome-sponsorships&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=galtzo-floss/awesome-sponsorships&type=Date" />
  </picture>
 </a>
+
+</details>
 
 ## 📄 License
 
@@ -108,22 +109,6 @@ The rest of the assets, which are in subdirectories, each have a distinct licens
     </li>
 </ul>
 
-Want the code for this copyright blurb?
-
-```html
-<ul>
-    <li>
-        Copyright (c) 2025 Peter H. Boling, of
-        <a href="https://discord.gg/3qme4XHNKN">
-            Galtzo.com
-            <picture>
-              <img src="https://logos.galtzo.com/assets/images/galtzo-floss/avatar-128px-blank.svg" alt="Galtzo.com Logo (wordless) by Aboling0, CC BY-SA 4.0" width="24">
-            </picture>
-        </a>, and awesome-sponsorships contributors
-    </li>
-</ul>
-```
-
 ## 🤑 A request for help
 
 Maintainers have teeth and need to pay their dentists.
@@ -139,7 +124,7 @@ To join the community or get help 👇️ Join the Discord.
 
 To say "thanks!" ☝️ Join the Discord or 👇️ send money.
 
-[![Sponsor kettle-rb/kettle-dev on Open Source Collective][🖇osc-all-bottom-img]][🖇osc] 💌 [![Sponsor me on GitHub Sponsors][🖇sponsor-bottom-img]][🖇sponsor] 💌 [![Sponsor me on Liberapay][⛳liberapay-bottom-img]][⛳liberapay-img] 💌 [![Donate on PayPal][🖇paypal-bottom-img]][🖇paypal-img]
+[![Sponsor galtzo-floss/awesome-sponsorships on Open Source Collective][🖇osc-all-bottom-img]][🖇osc] 💌 [![Sponsor me on GitHub Sponsors][🖇sponsor-bottom-img]][🖇sponsor] 💌 [![Sponsor me on Liberapay][⛳liberapay-bottom-img]][⛳liberapay-img] 💌 [![Donate on PayPal][🖇paypal-bottom-img]][🖇paypal-img]
 
 ### Please give the project a star ⭐ ♥.
 
@@ -213,31 +198,31 @@ Thanks for RTFM. ☺️
 [💁🏼‍♂️peterboling]: http://www.peterboling.com
 [🚂railsbling]: http://www.railsbling.com
 [📜src-gl-img]: https://img.shields.io/badge/GitLab-FBA326?style=for-the-badge&logo=Gitlab&logoColor=orange
-[📜src-gl]: https://gitlab.com/kettle-rb/kettle-dev/
+[📜src-gl]: https://gitlab.com/galtzo-floss/awesome-sponsorships/
 [📜src-cb-img]: https://img.shields.io/badge/CodeBerg-4893CC?style=for-the-badge&logo=CodeBerg&logoColor=blue
-[📜src-cb]: https://codeberg.org/kettle-rb/kettle-dev
+[📜src-cb]: https://codeberg.org/galtzo-floss/awesome-sponsorships
 [📜src-gh-img]: https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=Github&logoColor=green
-[📜src-gh]: https://github.com/kettle-rb/kettle-dev
+[📜src-gh]: https://github.com/galtzo-floss/awesome-sponsorships
 [📜docs-cr-rd-img]: https://img.shields.io/badge/RubyDoc-Current_Release-943CD2?style=for-the-badge&logo=readthedocs&logoColor=white
 [📜docs-head-rd-img]: https://img.shields.io/badge/YARD_on_Galtzo.com-HEAD-943CD2?style=for-the-badge&logo=readthedocs&logoColor=white
 [🚎13-🔒️-wf]: https://github.com/galtzo-floss/logos/actions/workflows/deps_locked.yml
 [🚎13-🔒️-wfi]: https://github.com/galtzo-floss/logos/actions/workflows/deps_locked.yml/badge.svg
-[📜wiki]: https://gitlab.com/kettle-rb/kettle-dev/-/wikis/home
+[📜wiki]: https://gitlab.com/galtzo-floss/awesome-sponsorships/-/wikis/home
 [📜wiki-img]: https://img.shields.io/badge/wiki-examples-943CD2.svg?style=for-the-badge&logo=Wiki&logoColor=white
-[👽oss-help]: https://www.codetriage.com/kettle-rb/kettle-dev
-[👽oss-helpi]: https://www.codetriage.com/kettle-rb/kettle-dev/badges/users.svg
-[🤝gh-issues]: https://github.com/kettle-rb/kettle-dev/issues
-[🤝gh-pulls]: https://github.com/kettle-rb/kettle-dev/pulls
-[🤝gl-issues]: https://gitlab.com/kettle-rb/kettle-dev/-/issues
-[🤝gl-pulls]: https://gitlab.com/kettle-rb/kettle-dev/-/merge_requests
-[🤝cb-issues]: https://codeberg.org/kettle-rb/kettle-dev/issues
-[🤝cb-pulls]: https://codeberg.org/kettle-rb/kettle-dev/pulls
+[👽oss-help]: https://www.codetriage.com/galtzo-floss/awesome-sponsorships
+[👽oss-helpi]: https://www.codetriage.com/galtzo-floss/awesome-sponsorships/badges/users.svg
+[🤝gh-issues]: https://github.com/galtzo-floss/awesome-sponsorships/issues
+[🤝gh-pulls]: https://github.com/galtzo-floss/awesome-sponsorships/pulls
+[🤝gl-issues]: https://gitlab.com/galtzo-floss/awesome-sponsorships/-/issues
+[🤝gl-pulls]: https://gitlab.com/galtzo-floss/awesome-sponsorships/-/merge_requests
+[🤝cb-issues]: https://codeberg.org/galtzo-floss/awesome-sponsorships/issues
+[🤝cb-pulls]: https://codeberg.org/galtzo-floss/awesome-sponsorships/pulls
 [🤝cb-donate]: https://donate.codeberg.org/
 [🤝contributing]: CONTRIBUTING.md
 [🖐contrib-rocks]: https://contrib.rocks
-[🖐contributors]: https://github.com/kettle-rb/kettle-dev/graphs/contributors
-[🖐contributors-img]: https://contrib.rocks/image?repo=kettle-rb/kettle-dev
-[🚎contributors-gl]: https://gitlab.com/kettle-rb/kettle-dev/-/graphs/main
+[🖐contributors]: https://github.com/galtzo-floss/awesome-sponsorships/graphs/contributors
+[🖐contributors-img]: https://contrib.rocks/image?repo=galtzo-floss/awesome-sponsorships
+[🚎contributors-gl]: https://gitlab.com/galtzo-floss/awesome-sponsorships/-/graphs/main
 [🪇conduct]: CODE_OF_CONDUCT.md
 [🪇conduct-img]: https://img.shields.io/badge/Contributor_Covenant-2.1-259D6C.svg
 [📌gitmoji]:https://gitmoji.dev
