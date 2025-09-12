@@ -383,6 +383,7 @@ namespace :ci do
     get_origin = proc do
       out, status = Open3.capture2("git", "config", "--get", "remote.origin.url")
       next nil unless status.success?
+
       url = out.strip
       # Support ssh and https URLs
       if url =~ %r{git@github.com:(.+?)/(.+?)(\.git)?$}
