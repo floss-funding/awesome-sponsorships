@@ -1,6 +1,11 @@
+[![Galtzo FLOSS Logo by Aboling0, CC BY-SA 4.0][🖼️galtzo-i]][🖼️galtzo-discord]
+
+[🖼️galtzo-i]: https://logos.galtzo.com/assets/images/galtzo-floss/avatar-192px.svg
+[🖼️galtzo-discord]: https://discord.gg/3qme4XHNKN
+
 # awesome-sponsorships
 
-> Every project I have every used it worth at least $1
+> Every project I have ever used it worth at least $1
 >—Everyone (someday)
 
 Some ideas on how to earn more money as an open source developer.
