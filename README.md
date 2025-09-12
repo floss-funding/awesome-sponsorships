@@ -5,7 +5,7 @@
 
 # awesome-sponsorships
 
-> Every project I have ever used it worth at least $1
+> Every project I have ever used it worth at least $1 <br/>
 >—Everyone (someday)
 
 Some ideas on how to earn more money as an open source developer.
