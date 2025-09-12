@@ -5,9 +5,18 @@ Some ideas on how to earn more money as an open source developer.
 ## How to use this project
 
 1. Fork it, and check things off!
-2. Add your own brilliant ideas, and send a PR!
+2. Get inspired by what others have built!
+3. Add your own brilliant ideas, and send a PR!
+
+## Awesome Inspiration List
+
+Check out these awesome profiles, and their creative tiers:
+
+- [github.com/sponsors/simonw](https://github.com/sponsors/simonw]
 
 ## Awesome Check List
+
+How to get more sponsors!
 
 - [ ] 1. Setting up the right tiers
 - [ ] 2. Market myself
